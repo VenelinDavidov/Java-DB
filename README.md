@@ -1,3 +1,2 @@
 # Java-DB
 MySQL
-SpringData
